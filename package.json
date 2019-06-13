@@ -1,0 +1,30 @@
+{
+  "name": "node-to_do_list-express",
+  "version": "0.1.0",
+  "description": "A Node.js tutorial using Express form The Net Ninja",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^2.6.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MazzinWX/Node-prep.git"
+  },
+  "keywords": [
+    "Express",
+    "Node",
+    "to-do"
+  ],
+  "author": "MazzinWX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MazzinWX/Node-prep/issues"
+  },
+  "homepage": "https://github.com/MazzinWX/Node-prep#readme"
+}
